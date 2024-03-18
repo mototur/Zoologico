@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\bin\Debug\Zoologico Virtual.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\bin\Debug\Zoologico Virtual.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\bin\Debug\Zoologico Virtual.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\obj\Debug\Zoologico Virtual.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\obj\Debug\Zoologico Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\obj\Debug\Zoologico Virtual.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Zoologico\Zoologico Virtual\Zoologico Virtual\obj\Debug\Zoologico Virtual.pdb
